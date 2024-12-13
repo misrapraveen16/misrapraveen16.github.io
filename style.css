@@ -1,0 +1,9 @@
+.navlinks {
+    text-decoration: none;  width: 19%; text-align:center; display:inline-flex; border:solid;
+}
+nav{
+    align-items: center;  width: 100%; text-align: center;font-size: 25px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.topheader{
+    width: 100%; margin-right: auto; margin-left: auto; text-align: center; font-size: 25px;
+}
